@@ -232,25 +232,3 @@ timer.Create( "script_tracker", 60, 0, function()
 		end
 	end
 end )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
